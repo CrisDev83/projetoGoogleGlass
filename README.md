@@ -50,6 +50,8 @@ Esse site é temático, se assemelha com um site institucional, somente traz inf
 # Tecnologias utilizadas
 ## Ferramentas 
 - VSCODE - Visual Studio Code
+- Git
+- GitHub
 
 ## Front end
 - HTML5
