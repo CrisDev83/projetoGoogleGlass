@@ -8,7 +8,7 @@ https://crisdev83.github.io/projetoGoogleGlass/
 
 Primeiro site que desencolvi em 2016 (Não Responsivo). Baseado no antigo curso (2013) de HTML e CSS do canal [CURSO EM VIDEO](https://www.youtube.com/watch?v=epDCjksKMok&list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o). Apesar do Design ser bem retro, todas as funcionalidades de HTML (2013) foram abordadas nesse projeto. 
 
-Esse site é temático, se assemelha com um site institucional somente traz informações sobre uma projeto do Google na época que parecia ser revolucionario o Google Glass (Óculos do Google). Possui menu de navegação com interatividade, pagina com especificações, elementos multimídia, fotos e um formulário de contato. Apesar disso não é responsivo, na época (2013) não foi abordado este conceito.
+Esse site é temático, se assemelha com um site institucional, somente traz informações sobre um projeto do Google na época que parecia ser revolucionario o Google Glass (Óculos do Google). Possui menu de navegação com interatividade, pagina com especificações, elementos multimídia, fotos e um formulário de contato. Apesar disso não é responsivo, na época (2013) não foi abordado este conceito.
 
 ## O Que Aprendi
 
