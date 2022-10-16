@@ -10,38 +10,9 @@ Primeiro site que desencolvi em 2016 (Não Responsivo). Baseado no antigo curso 
 
 Esse site é temático, se assemelha com um site institucional, somente traz informações sobre um projeto do Google na época que parecia ser revolucionario o Google Glass (Óculos do Google). Possui menu de navegação com interatividade, pagina com especificações, elementos multimídia, fotos e um formulário de contato. Apesar disso não é responsivo, na época (2013) não foi abordado este conceito.
 
-## O Que Aprendi
+## O Que Aprendi?
 
-- História da internet
-- História do HTML
-- Tags básicas em HTML5
-- Parágrafos, Quebras e Símbolos especiais
-- Formatação de texto com HTML5 e CSS3
-- Códigos de cores
-- Utilização e formatação de imagens
-- Listas Ordenadas e Não Ordenadas
-- Links
-- Menu
-- Efeitos visuais em CSS3
-- Formatação de interface
-- Cabeçalho em CSS3
-- Fontes em CSS3
-- Semântica em HTML5
-- Tabelas
-- Estilo para tabelas
-- Interfaces
-- Introdução ao JavaScript
-- JavaScript com Objetos
-- Funções
-- Integrando JavaScript com HTML5
-- Documentos Adicionais
-- Iframe
-- Mapas de imagem
-- Album de fotos
-- Audio e Video
-- Formulários
-- Formulários com JavaScript
-
+História da internet; História do HTML; Tags básicas em HTML5; Parágrafos, Quebras e Símbolos especiais; Formatação de texto com HTML5 e CSS3; Códigos de cores; Utilização e formatação de imagens; Listas Ordenadas e Não Ordenadas; Links; Menu; Efeitos visuais em CSS3; Formatação de interface; Cabeçalho em CSS3; Fontes em CSS3; Semântica em HTML5; Tabelas; Estilo para tabelas; Interfaces; Introdução ao JavaScript; JavaScript com Objetos; Funções; Integrando JavaScript com HTML5; Documentos Adicionais; Iframe; Mapas de imagem; Album de fotos; Audio e Video; Formulários; Formulários com JavaScript.
 
 ## Layout Desktop
 ![Web 1](https://github.com/CrisDev83/assets-projects/blob/master/googleglass.png)
